@@ -1,9 +1,13 @@
 # Node 小栈
 ## 文章列表
+### npm
 * [发布node模块到npm](https://github.com/gedennis/node-tribe-blog/issues/1)
+### 监控
+* [zabbix小结 -- zabbix server安装](https://github.com/gedennis/node-tribe-blog/issues/2)
+* [zabbix小结 -- zabbix agent安装](https://github.com/gedennis/node-tribe-blog/issues/3)
+* [zabbix小结 -- zabbix添加监控主机](https://github.com/gedennis/node-tribe-blog/issues/4)
 
-
-[全部文章](https://github.com/gedennis/node-tribe-blog/issues)
+[>> 全部文章 <<](https://github.com/gedennis/node-tribe-blog/issues)
 
 ## 关于我
 
