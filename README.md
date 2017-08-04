@@ -6,6 +6,8 @@
 * [zabbix小结 -- zabbix server安装](https://github.com/gedennis/node-tribe-blog/issues/2)
 * [zabbix小结 -- zabbix agent安装](https://github.com/gedennis/node-tribe-blog/issues/3)
 * [zabbix小结 -- zabbix添加监控主机](https://github.com/gedennis/node-tribe-blog/issues/4)
+### 容器
+* [利用Minikube来部署一个nodejs应用](https://github.com/gedennis/node-tribe-blog/issues/5)
 
 [>> 全部文章 <<](https://github.com/gedennis/node-tribe-blog/issues)
 
