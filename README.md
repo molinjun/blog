@@ -16,6 +16,7 @@
 ### 排序算法
 * [1、算法特性及大O记法](https://github.com/gedennis/node-tribe-blog/issues/7)
 * [2、冒泡排序](https://github.com/gedennis/node-tribe-blog/issues/8)
+* [3、选择排序](https://github.com/gedennis/node-tribe-blog/issues/9)
 
 ## 关于我
 
