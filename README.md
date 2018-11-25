@@ -18,6 +18,7 @@
 * [2、冒泡排序](https://github.com/gedennis/node-tribe-blog/issues/8)
 * [3、选择排序](https://github.com/gedennis/node-tribe-blog/issues/9)
 * [4、插入排序](https://github.com/gedennis/node-tribe-blog/issues/10)
+* [5、希尔排序](https://github.com/gedennis/node-tribe-blog/issues/11)
 
 ## 关于我
 
