@@ -10,9 +10,13 @@
 ## WEB 前端
 
 ### HTML
-
+[HTML基础小结]()
+[HTML5常用特性小结]()    
 ### CSS
+[CSS基础小结]()
 
+### HTML与CSS实践
+[Google web开发示例]()
 ### JavaScript
 
 ### React
@@ -55,6 +59,7 @@
 ## 工具
 ### git
 ### 编辑器
+[VSCode开发配置小结]()    
 ## 持续集成
 [GitLab CE搭建小结]()    
 [GitLab CI 配置小结]()    
