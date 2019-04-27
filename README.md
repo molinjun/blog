@@ -214,6 +214,7 @@
 
 - [2019-04-19 AWS 常用服务简介](./serverless/20190419-aws-intro.md)
 - [2019-04-20 AWS 命令行界面 (AWS CLI) 使用小结](./serverless/20190420-aws-cli-intro.md)
+- [2019-04-21 AWS IAM 实践总结](./serverless/20190421-aws-iam-summary.md)
 
 ## 工具篇
 
