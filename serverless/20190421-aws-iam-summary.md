@@ -253,5 +253,5 @@ $ aws s3 ls --profile admin
 ### 参考
 
 [1][配置受 mfa 保护的 api 访问](https://docs.aws.amazon.com/zh_cn/IAM/latest/UserGuide/id_credentials_mfa_configure-api-require.html?utm_source=drip&utm_medium=email&utm_campaign={{%20email.subject%20|%20url_encode%20}}&utm_content=ami-mfa)  
-[2][using mfa with the aws api](https://mharrison.org/post/aws_mfa/)
+[2][using mfa with the aws api](https://mharrison.org/post/aws_mfa/)  
 [3][iam 最佳实践](https://docs.aws.amazon.com/zh_cn/IAM/latest/UserGuide/best-practices.html)
