@@ -184,7 +184,8 @@
 
 - [2019-04-17 使用 ESLint 和 Prettier 规范代码](./project/20190417-build-eslint-prettier.md)
 
-<a id="markdown-测试" name="测试"></a>
+- [2019-04-18 使用 TSLint 和 Prettier 规范 TypeScript 项目](./project/20190418-build-tslint-prettier.md)
+  <a id="markdown-测试" name="测试"></a>
 
 ### 测试
 
