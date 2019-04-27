@@ -214,6 +214,8 @@
 
 ### 开发环境
 
+- [2019-04-15 打造高效的 Mac 开发环境](./tools/20190415-setup-mac-dev-env.md)
+
 <a id="markdown-git" name="git"></a>
 
 ### Git
