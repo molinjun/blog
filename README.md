@@ -182,6 +182,8 @@
 
 ### 代码规范
 
+- [2019-04-17 使用 ESLint 和 Prettier 规范代码](./project/20190417-build-eslint-prettier.md)
+
 <a id="markdown-测试" name="测试"></a>
 
 ### 测试
