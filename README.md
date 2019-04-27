@@ -215,6 +215,7 @@
 ### 开发环境
 
 - [2019-04-15 打造高效的 Mac 开发环境](./tools/20190415-setup-mac-dev-env.md)
+- [2019-04-16 设置一个适合自己的 VSCode 环境](./tools/20190416-setup-own-vscode.md)
 
 <a id="markdown-git" name="git"></a>
 
