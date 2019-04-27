@@ -298,3 +298,5 @@ $ export NVM_DIR="${XDG_CONFIG_HOME/:-$HOME/.}nvm"
 ### VSCode
 
 VSCode 的安装配置, 请参考我的一篇 [配置一个适合自己的 VSCode 环境](./20190416-setup-own-vscode.md)。
+
+至此，基本搭建好了一个比较好用的开发环境了，愉快的编程吧！
