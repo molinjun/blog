@@ -164,7 +164,9 @@
 
 <a id="markdown-持续集成" name="持续集成"></a>
 
-### 持续集成
+### 持续集成/部署
+
+- [2019-04-28 Terraform 实践初探](./cd/20190428-terraform-usage.md)
 
 <a id="markdown-应用监控" name="应用监控"></a>
 
