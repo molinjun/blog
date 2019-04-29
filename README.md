@@ -178,6 +178,7 @@
 ### 容器
 
 - [2017-02-22 Dockerfile 配置小结](./docker/20170222-dockerfile-intro.md)
+- [2017-02-04 利用 Minikube 来部署一个 nodejs 应用](./docker/20170204-minikube-deploy-nodejs-app.md)
   <a id="markdown-项目篇" name="项目篇"></a>
 
 ## 项目篇
