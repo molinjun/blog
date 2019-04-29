@@ -90,7 +90,8 @@
 
 #### Node.js
 
-<a id="markdown-typescript" name="typescript"></a>
+- [2017-07-26 发布属于自己的 npm 模板](./node/20170726-publish-npm-module.md)
+  <a id="markdown-typescript" name="typescript"></a>
 
 #### TypeScript
 
@@ -176,7 +177,7 @@
 
 ### 容器
 
-- [2017-02-2 Dockerfile 配置小结](./docker/20170222-dockerfile-intro.md)
+- [2017-02-22 Dockerfile 配置小结](./docker/20170222-dockerfile-intro.md)
   <a id="markdown-项目篇" name="项目篇"></a>
 
 ## 项目篇
