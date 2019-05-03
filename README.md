@@ -155,6 +155,8 @@
 
 #### Redis
 
+- [2019-05-03 Redis 在 Android Emulator 的部署实践](./redis/20190503-deploy-redis-to-android.md)
+
 <a id="markdown-dynamodb" name="dynamodb"></a>
 
 #### DynamoDB
