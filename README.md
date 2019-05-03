@@ -247,12 +247,14 @@
 
 - [2019-04-16 设置一个适合自己的 VSCode 环境](./tools/20190416-setup-own-vscode.md)
 
-<a id="markdown-方法篇" name="方法篇"></a>
-
-## 方法篇
-
 <a id="markdown-Android" name="Android"></a>
 
 ## Android
 
 - [2019-05-02 使用 Android Studio 构建应用程序](./android/20190502-android-studio-build-app.md)
+
+<a id="markdown-方法篇" name="方法篇"></a>
+
+## 方法篇
+
+- [2019-01-09 MAS 学习法](./approach/20190109-mas-method.md)
