@@ -5,7 +5,7 @@ Android 提供了一个内容丰富的应用框架，支持使用 Java 语言为
 
 ### 安装配置 Android Studio
 
-[Android Studio](https://developer.android.com/studio/intro) 是基于 IntelliJ IDEA 的官方 Android 应用开发环境 (IDE)。Android Studio 是代码编辑器和开发工具外，还提供很多提高 Android 应用构建效率的功能。
+[Android Studio](https://developer.android.com/studio/intro) 是基于 IntelliJ IDEA 的官方 Android 应用开发环境 (IDE)。Android Studio 除了是代码编辑器和开发工具外，还提供很多提高 Android 应用构建效率的功能。
 
 - 基于 Gradle 的灵活构建系统
 - 功能丰富的模拟器 (emulator)
@@ -74,11 +74,11 @@ Android 视图下可以看到以下几个重要的文件：
 ```
 
 **MainActivity.java**
-应用入口，主 Activity，位于 `app > src > main > java > com.example.androiddemo > MainActivity.java`。
+应用入口，主 Activity，位于 `app > src > main > java > com.example.androiddemo > MainActivity.java`。  
 **AndroidManifest.xml**  
-[AndroidManifest.xml](https://developer.android.com/guide/topics/manifest/manifest-intro.html) 文件描述应用的基本特性并定义其每个组件。 位于`app > src > main` 文件夹。
+[AndroidManifest.xml](https://developer.android.com/guide/topics/manifest/manifest-intro.html) 文件描述应用的基本特性并定义其每个组件。 位于`app > src > main` 文件夹。  
 **activity_main.xml**  
-此 XML 文件会定义 Activity 界面的布局。位于`app > src > main` 文件夹。
+此 XML 文件会定义 Activity 界面的布局。位于`app > src > main` 文件夹。  
 **build.gradle**  
 `build.gradle` 文件用来配置 Gradle 工具编译和构建应用的方式。
 
