@@ -1,6 +1,6 @@
 ## 使用 Android Studio 构建应用程序
 
-Android 提供了一个内容丰富的应用框架，支持使用 Java 语言为移动设备开发 Android 应用。Android 应用都是将各种可单独调用的组件加以组合开发而成。例如，提供应用界面的单个 Activity，以及在后台独立运行的 Service。也可以使用 Itent 来从一个组件启动另一个组件。同时 Android 提供一个自适应框架，为不同的设配配置不同的资源，例如针对不同屏幕尺寸创建不同的 XML 布局文件等。Android SDK 工具会将代码，连同任何数据和资源文件，打包到一个 `.apk` 的存档文件中。这个 APK 文件包含 Android 应用的所有内容，可以安装到 Android 系统设备上。关于更多 Android 的基础知识，请查看[官网文档](https://developer.android.com/guide/components/fundamentals)。
+Android 提供了一个内容丰富的应用框架，支持使用 Java 语言为移动设备开发 Android 应用。Android 应用都是将各种可单独调用的组件加以组合开发而成。例如，提供应用界面的单个 Activity，以及在后台独立运行的 Service。也可以使用 Intent 来从一个组件启动另一个组件。同时 Android 提供一个自适应框架，为不同的设配配置不同的资源，例如针对不同屏幕尺寸创建不同的 XML 布局文件等。Android SDK 工具会将代码，连同任何数据和资源文件，打包到一个 `.apk` 的存档文件中。这个 APK 文件包含 Android 应用的所有内容，可以安装到 Android 系统设备上。关于更多 Android 的基础知识，请查看[官网文档](https://developer.android.com/guide/components/fundamentals)。
 本文将简单介绍，如何使用 Android Studio 来开发一个简单的应用程序。
 
 ### 安装配置 Android Studio
