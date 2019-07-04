@@ -94,7 +94,7 @@ npm i -D tslint-config-prettier tslint-plugin-prettier
 }
 ```
 
-\*\*修改`editor.formatOnSave`配置  
+**修改`editor.formatOnSave`配置**  
 设置 `true`在文件保存时，运行 format。
 
 ### 参考配置
