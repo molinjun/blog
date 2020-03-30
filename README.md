@@ -94,7 +94,7 @@
 
 #### Node.js
 
-- [2017-07-26 发布属于自己的 npm 模板](./node/20170726-publish-npm-module.md)
+- [2017-07-26 发布属于自己的 npm 模块](./node/20170726-publish-npm-module.md)
   <a id="markdown-typescript" name="typescript"></a>
 
 #### TypeScript
@@ -247,6 +247,7 @@
 
 ### VSCode
 
+- [2020-03-30 搭建自己的云服务器](./tools/20200330-setup-cloud-server.md)
 - [2019-04-16 设置一个适合自己的 VSCode 环境](./tools/20190416-setup-own-vscode.md)
 
 <a id="markdown-Android" name="Android"></a>
